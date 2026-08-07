@@ -1,0 +1,11 @@
+C:\personales\Balance360\Business\bin\Debug\net9.0\Business.deps.json
+C:\personales\Balance360\Business\bin\Debug\net9.0\Business.dll
+C:\personales\Balance360\Business\bin\Debug\net9.0\Business.pdb
+C:\personales\Balance360\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\personales\Balance360\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\personales\Balance360\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\personales\Balance360\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\personales\Balance360\Business\obj\Debug\net9.0\Business.dll
+C:\personales\Balance360\Business\obj\Debug\net9.0\refint\Business.dll
+C:\personales\Balance360\Business\obj\Debug\net9.0\Business.pdb
+C:\personales\Balance360\Business\obj\Debug\net9.0\ref\Business.dll

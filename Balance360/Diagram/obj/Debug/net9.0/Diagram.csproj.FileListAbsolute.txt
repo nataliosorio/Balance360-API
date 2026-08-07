@@ -1,0 +1,11 @@
+C:\personales\Balance360\Diagram\bin\Debug\net9.0\Diagram.deps.json
+C:\personales\Balance360\Diagram\bin\Debug\net9.0\Diagram.dll
+C:\personales\Balance360\Diagram\bin\Debug\net9.0\Diagram.pdb
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\Diagram.AssemblyInfoInputs.cache
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\Diagram.AssemblyInfo.cs
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\Diagram.csproj.CoreCompileInputs.cache
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\Diagram.dll
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\refint\Diagram.dll
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\Diagram.pdb
+C:\personales\Balance360\Diagram\obj\Debug\net9.0\ref\Diagram.dll
